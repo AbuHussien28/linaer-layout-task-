@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">task one </string>
-    <string name="winter_in_p">Ahmed hassan</string>
+    <string name="name">Ahmed hassan</string>
     <string name="Eng">Engineer</string>
     <string name="Russ">Russian</string>
     <string name="dayFive">5 Days ago</string>
-    <string name="reviews_">(150Reviews) </string>
+    <string name="reviews_">(150 Reviews) </string>
     <string name="reviews_1">Reviews)</string>
     <string name="eva">4.5</string>
     <string name="day">3 hr</string>

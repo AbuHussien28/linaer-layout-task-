@@ -21,7 +21,7 @@
         <item name="android:textSize">30sp</item>
         <item name="android:drawableLeft">@drawable/ic_baseline_location_on_24</item>
     </style>
-    <style name="winter_in_p">
+    <style name="name">
 
         <item name="android:textSize">
             16sp
@@ -39,7 +39,7 @@
         </item>
 
         <item name="android:textColor">
-            #DE122940
+            #122940
         </item>
 
     </style>
@@ -48,7 +48,7 @@
             12sp
         </item>
         <item name="android:textColor">
-            #61122940
+            #122940
         </item>
     </style>
     <style name="reviews_">
@@ -79,7 +79,7 @@
         </item>
 
         <item name="android:textColor">
-            #99263238
+            #263238
         </item>
 
     </style>
@@ -90,7 +90,7 @@
         </item>
 
         <item name="android:textColor">
-            #DE122940
+            #122940
         </item>
 
     </style>
@@ -104,5 +104,8 @@
             #FFFFFF
         </item>
 
+    </style>
+    <style name="RoundedSquare">
+        <item name="cornerSize">10%</item>
     </style>
 </resources>
