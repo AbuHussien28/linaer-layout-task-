@@ -48,26 +48,18 @@
         android:gravity="top"
         android:text="@string/winter_in_p"
         android:textAppearance="@style/winter_in_p" />
-    <RelativeLayout
-        android:id="@+id/frame_26067"
-        android:layout_width="40dp"
-        android:layout_height="20dp"
-        android:layout_marginTop="12px"
-        android:layout_marginStart="96px"
-        android:background="@drawable/frame_26067"
-        >
       <TextView
           android:id="@+id/threeHour"
-          android:layout_width="22dp"
-          android:layout_height="12dp"
-          android:gravity="top"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:gravity="center"
           android:lineSpacingExtra="4sp"
           android:text="@string/day"
-
-          android:layout_marginStart="14px"
-          android:layout_marginEnd="10px"
+          android:background="@drawable/frame_26067"
+          android:layout_marginTop="12px"
+          android:layout_marginStart="100px"
           android:textAppearance="@style/day" />
-    </RelativeLayout>
+
   </LinearLayout>
   <LinearLayout
       android:layout_width="wrap_content"
